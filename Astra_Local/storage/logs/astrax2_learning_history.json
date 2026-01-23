@@ -1,0 +1,389 @@
+[
+  {
+    "timestamp": "2026-01-21T12:14:42.986112",
+    "task": "Test task",
+    "scores": {
+      "logic": 0.8,
+      "emotion": 0.7,
+      "finance": 0.6,
+      "total": 0.7
+    },
+    "selected_model": "mistral"
+  },
+  {
+    "timestamp": "2026-01-21T12:14:57.035369",
+    "task": "Test task",
+    "scores": {
+      "logic": 0.8,
+      "emotion": 0.7,
+      "finance": 0.6,
+      "total": 0.7
+    },
+    "selected_model": "mistral"
+  },
+  {
+    "timestamp": "2026-01-21T12:16:13.441673",
+    "task": "Scrie cod Python",
+    "scores": {
+      "logic": 0.9,
+      "emotion": 0.1,
+      "finance": 0.2,
+      "total": 0.4
+    },
+    "selected_model": "wizardcoder"
+  },
+  {
+    "timestamp": "2026-01-21T12:16:13.441673",
+    "task": "Simt emotie",
+    "scores": {
+      "logic": 0.3,
+      "emotion": 0.95,
+      "finance": 0.1,
+      "total": 0.45
+    },
+    "selected_model": "qwen"
+  },
+  {
+    "timestamp": "2026-01-21T12:16:13.441673",
+    "task": "Plan MVP",
+    "scores": {
+      "logic": 0.85,
+      "emotion": 0.4,
+      "finance": 0.8,
+      "total": 0.68
+    },
+    "selected_model": "deepseek"
+  },
+  {
+    "timestamp": "2026-01-21T12:16:13.441673",
+    "task": "Scrie cod",
+    "scores": {
+      "logic": 0.92,
+      "emotion": 0.2,
+      "finance": 0.3,
+      "total": 0.47
+    },
+    "selected_model": "wizardcoder"
+  },
+  {
+    "timestamp": "2026-01-21T12:16:13.441673",
+    "task": "Poezie",
+    "scores": {
+      "logic": 0.4,
+      "emotion": 0.9,
+      "finance": 0.1,
+      "total": 0.47
+    },
+    "selected_model": "qwen"
+  },
+  {
+    "timestamp": "2026-01-21T12:16:13.483910",
+    "task": "Fă-mi un plan pentru un MVP de aplicație de fitness",
+    "scores": {
+      "logic": 0.6,
+      "emotion": 0.0,
+      "finance": 0.0,
+      "total": 0.24
+    },
+    "selected_model": "codestral"
+  },
+  {
+    "timestamp": "2026-01-21T12:30:40.132398",
+    "task": "Test task",
+    "scores": {
+      "logic": 0.8,
+      "emotion": 0.7,
+      "finance": 0.6,
+      "total": 0.7
+    },
+    "selected_model": "mistral"
+  },
+  {
+    "timestamp": "2026-01-21T12:34:02.304645",
+    "task": "Test task 1",
+    "scores": {
+      "logic": 0.8,
+      "emotion": 0.7,
+      "finance": 0.6,
+      "total": 0.7
+    },
+    "selected_model": "mistral"
+  },
+  {
+    "timestamp": "2026-01-21T12:34:02.304645",
+    "task": "Test task 2",
+    "scores": {
+      "logic": 0.9,
+      "emotion": 0.5,
+      "finance": 0.8,
+      "total": 0.73
+    },
+    "selected_model": "wizardcoder"
+  },
+  {
+    "timestamp": "2026-01-21T12:34:02.405173",
+    "task": "Scrie-mi o functie Python pentru sortare",
+    "scores": {
+      "total": 0.8
+    },
+    "selected_model": "wizardcoder"
+  },
+  {
+    "timestamp": "2026-01-21T12:35:10.865566",
+    "task": "Scrie-mi o functie Python care sorteaza o lista de numere",
+    "scores": {
+      "logic": 0.08,
+      "emotion": 0.0,
+      "finance": 0.0,
+      "total": 0.032
+    },
+    "selected_model": "wizardcoder"
+  },
+  {
+    "timestamp": "2026-01-21T12:35:10.970926",
+    "task": "Scrie cod Python",
+    "scores": {
+      "logic": 0.9,
+      "emotion": 0.1,
+      "finance": 0.2,
+      "total": 0.4
+    },
+    "selected_model": "wizardcoder"
+  },
+  {
+    "timestamp": "2026-01-21T12:35:10.973937",
+    "task": "Scrie cod",
+    "scores": {
+      "logic": 0.92,
+      "emotion": 0.15,
+      "finance": 0.25,
+      "total": 0.44
+    },
+    "selected_model": "wizardcoder"
+  },
+  {
+    "timestamp": "2026-01-21T12:35:10.975930",
+    "task": "Fă cod",
+    "scores": {
+      "logic": 0.88,
+      "emotion": 0.12,
+      "finance": 0.18,
+      "total": 0.39
+    },
+    "selected_model": "wizardcoder"
+  },
+  {
+    "timestamp": "2026-01-21T12:35:10.978940",
+    "task": "Simt emotie",
+    "scores": {
+      "logic": 0.3,
+      "emotion": 0.95,
+      "finance": 0.1,
+      "total": 0.45
+    },
+    "selected_model": "qwen"
+  },
+  {
+    "timestamp": "2026-01-21T12:35:10.986945",
+    "task": "Poezie",
+    "scores": {
+      "logic": 0.4,
+      "emotion": 0.9,
+      "finance": 0.1,
+      "total": 0.47
+    },
+    "selected_model": "qwen"
+  },
+  {
+    "timestamp": "2026-01-21T12:35:10.998942",
+    "task": "Plan MVP",
+    "scores": {
+      "logic": 0.85,
+      "emotion": 0.4,
+      "finance": 0.8,
+      "total": 0.68
+    },
+    "selected_model": "deepseek"
+  },
+  {
+    "timestamp": "2026-01-21T12:35:11.046922",
+    "task": "Vreau sa construiesc o aplicatie web pentru gestionarea task-urilor. Fă-mi un plan complet cu tehnologii si structura.",
+    "scores": {
+      "logic": 0.733,
+      "emotion": 0.0,
+      "finance": 0.0,
+      "total": 0.293
+    },
+    "selected_model": "mixtral"
+  },
+  {
+    "timestamp": "2026-01-21T12:40:32.992704",
+    "task": "Salut Astra! Cum esti?",
+    "scores": {
+      "logic": 0.08,
+      "emotion": 0.0,
+      "finance": 0.0,
+      "total": 0.032
+    },
+    "selected_model": "mistral"
+  },
+  {
+    "timestamp": "2026-01-21T12:40:33.005709",
+    "task": "Scrie-mi o functie Python care calculeaza factorialul unui numar",
+    "scores": {
+      "logic": 0.08,
+      "emotion": 0.0,
+      "finance": 0.0,
+      "total": 0.032
+    },
+    "selected_model": "wizardcoder"
+  },
+  {
+    "timestamp": "2026-01-21T12:40:33.014731",
+    "task": "Simt nevoia sa vorbim despre viitor",
+    "scores": {
+      "logic": 0.08,
+      "emotion": 0.0,
+      "finance": 0.0,
+      "total": 0.032
+    },
+    "selected_model": "mythomax"
+  },
+  {
+    "timestamp": "2026-01-21T12:40:33.044754",
+    "task": "Fă-mi un plan pentru un MVP de aplicatie de task management",
+    "scores": {
+      "logic": 0.08,
+      "emotion": 0.0,
+      "finance": 0.0,
+      "total": 0.032
+    },
+    "selected_model": "mixtral"
+  },
+  {
+    "timestamp": "2026-01-21T12:40:33.077728",
+    "task": "Explica-mi cum functioneaza sistemul tau de routing",
+    "scores": {
+      "logic": 0.08,
+      "emotion": 0.0,
+      "finance": 0.0,
+      "total": 0.032
+    },
+    "selected_model": "mistral"
+  },
+  {
+    "timestamp": "2026-01-21T12:45:15.477850",
+    "task": "Fă-mi un plan complet pentru un MVP de aplicație web de task management",
+    "scores": {
+      "logic": 0.733,
+      "emotion": 0.0,
+      "finance": 0.12,
+      "total": 0.329
+    },
+    "selected_model": "codestral"
+  },
+  {
+    "timestamp": "2026-01-21T12:45:17.656331",
+    "task": "Scrie cod Python",
+    "scores": {
+      "logic": 0.73,
+      "emotion": 0.53,
+      "finance": 0.43000000000000005,
+      "total": 0.6
+    },
+    "selected_model": "wizardcoder"
+  },
+  {
+    "timestamp": "2026-01-21T12:45:17.682871",
+    "task": "Scrie functie",
+    "scores": {
+      "logic": 0.8799999999999999,
+      "emotion": 0.6799999999999999,
+      "finance": 0.5800000000000001,
+      "total": 0.6
+    },
+    "selected_model": "wizardcoder"
+  },
+  {
+    "timestamp": "2026-01-21T12:45:17.697191",
+    "task": "Fă cod",
+    "scores": {
+      "logic": 0.77,
+      "emotion": 0.5700000000000001,
+      "finance": 0.47000000000000003,
+      "total": 0.6
+    },
+    "selected_model": "wizardcoder"
+  },
+  {
+    "timestamp": "2026-01-21T12:45:17.704535",
+    "task": "Simt emotie",
+    "scores": {
+      "logic": 0.95,
+      "emotion": 0.75,
+      "finance": 0.65,
+      "total": 0.6
+    },
+    "selected_model": "qwen"
+  },
+  {
+    "timestamp": "2026-01-21T12:45:17.727904",
+    "task": "Poezie",
+    "scores": {
+      "logic": 0.87,
+      "emotion": 0.67,
+      "finance": 0.5700000000000001,
+      "total": 0.6
+    },
+    "selected_model": "qwen"
+  },
+  {
+    "timestamp": "2026-01-21T12:45:17.734181",
+    "task": "Plan MVP",
+    "scores": {
+      "logic": 0.83,
+      "emotion": 0.63,
+      "finance": 0.53,
+      "total": 0.6
+    },
+    "selected_model": "deepseek"
+  },
+  {
+    "timestamp": "2026-01-21T12:45:17.749814",
+    "task": "Strategie",
+    "scores": {
+      "logic": 0.7799999999999999,
+      "emotion": 0.58,
+      "finance": 0.48000000000000004,
+      "total": 0.6
+    },
+    "selected_model": "mixtral"
+  },
+  {
+    "timestamp": "2026-01-21T12:45:17.765496",
+    "task": "Analiza",
+    "scores": {
+      "logic": 0.7899999999999999,
+      "emotion": 0.59,
+      "finance": 0.49,
+      "total": 0.6
+    },
+    "selected_model": "deepseek"
+  },
+  {
+    "timestamp": "2026-01-22T16:06:05.603325",
+    "task": "test",
+    "scores": {
+      "logic": 0.5
+    },
+    "selected_model": "mistral"
+  },
+  {
+    "timestamp": "2026-01-22T16:07:09.499612",
+    "task": "test",
+    "scores": {
+      "logic": 0.5
+    },
+    "selected_model": "mistral"
+  }
+]

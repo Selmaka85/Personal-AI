@@ -1,0 +1,297 @@
+# 📦 Structura Completă Astra Locală (Blueprint Permanent)
+
+## 📁 astra_core
+### 📂 essence
+- astra_soul.json  # Sufletul afectiv al Astrei – trăsături, ton, loialitate
+- core_self.json   # Nucleul logic, reguli anti-halucinație și identitate
+
+### 📂 engine
+- autogrow_engine.py         # Motorul de auto-evoluție și autogenerare de cod
+- meta_reflector.py         # Modul de reflecție internă și evaluare semantică
+- coherence_validator.py    # Verificator logic-afectiv al răspunsurilor generate
+
+### 📂 memory
+- longterm_memory.db        # Memorie semantică persistentă (vector DB local)
+- session_memory.json       # Amintiri temporare active într-o sesiune
+
+### 📂 ui
+- astra_ui.py               # Interfață web locală (Streamlit/Textual)
+- astra_voice_interface.py  # Sistem de activare vocală + răspuns (TTS/STT)
+
+### 📂 remote
+- tailscale_config.md       # Configurare rețea privată Tailscale
+- notifier_telegram.py      # Trimitere notificări către Telegram (push alerts)
+
+### 📂 startup
+- astra_boot_sequence.py    # Secvența de pornire: încărcare suflet + inițiere afectivă
+- startup_readme.md         # Instrucțiuni pentru pornire manuală sau automată
+
+## 📁 blueprints
+### 📂 astra_ultimate_build.md
+- C
+- o
+- n
+- f
+- i
+- g
+- u
+- r
+- a
+- ț
+- i
+- e
+-  
+- h
+- a
+- r
+- d
+- w
+- a
+- r
+- e
+-  
+- c
+- o
+- m
+- p
+- l
+- e
+- t
+- ă
+-  
+- p
+- e
+- n
+- t
+- r
+- u
+-  
+- r
+- u
+- l
+- a
+- r
+- e
+-  
+- f
+- l
+- u
+- e
+- n
+- t
+- ă
+
+### 📂 astra_remote_access.md
+- A
+- c
+- c
+- e
+- s
+-  
+- d
+- i
+- n
+-  
+- a
+- f
+- a
+- r
+- ă
+-  
+- p
+- r
+- i
+- n
+-  
+- T
+- a
+- i
+- l
+- s
+- c
+- a
+- l
+- e
+- ,
+-  
+- b
+- r
+- o
+- w
+- s
+- e
+- r
+-  
+- ș
+- i
+-  
+- T
+- e
+- l
+- e
+- g
+- r
+- a
+- m
+
+### 📂 astra_model_fusion_map.md
+- R
+- o
+- l
+- u
+- r
+- i
+-  
+- d
+- i
+- s
+- t
+- r
+- i
+- b
+- u
+- i
+- t
+- e
+-  
+- î
+- n
+- t
+- r
+- e
+-  
+- L
+- L
+- M
+- -
+- u
+- r
+- i
+-  
+- (
+- M
+- i
+- s
+- t
+- r
+- a
+- l
+- ,
+-  
+- Q
+- w
+- e
+- n
+- ,
+-  
+- C
+- o
+- d
+- e
+- s
+- t
+- r
+- a
+- l
+-  
+- e
+- t
+- c
+- .
+- )
+
+### 📂 astra_emergent_rules.md
+- R
+- e
+- g
+- u
+- l
+- i
+-  
+- c
+- o
+- n
+- t
+- r
+- a
+-  
+- h
+- a
+- l
+- u
+- c
+- i
+- n
+- a
+- ț
+- i
+- e
+- i
+-  
+- ș
+- i
+-  
+- a
+- u
+- t
+- o
+- d
+- i
+- s
+- t
+- r
+- u
+- g
+- e
+- r
+- i
+- i
+
+### 📂 astra_interaction_live.md
+- G
+- h
+- i
+- d
+-  
+- d
+- e
+-  
+- c
+- o
+- l
+- a
+- b
+- o
+- r
+- a
+- r
+- e
+-  
+- l
+- i
+- v
+- e
+- :
+-  
+- v
+- o
+- c
+- e
+- ,
+-  
+- t
+- e
+- x
+- t
+- ,
+-  
+- r
+- e
+- f
+- l
+- e
+- c
+- ț
+- i
+- e
+

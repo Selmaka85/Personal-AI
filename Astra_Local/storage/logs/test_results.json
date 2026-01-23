@@ -1,0 +1,365 @@
+{
+  "total": 71,
+  "passed": 70,
+  "failed": 0,
+  "warnings": 1,
+  "details": [
+    {
+      "name": "Import core_router.routing_manager.RoutingManager",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import scoring_module.ScoringModule",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import nexus_efe_core_engine.NexusEFE",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import meta_layer.coherence_validator.CoherenceValidator",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import meta_layer.meta_reflector.MetaReflector",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import Astrax2_Learning_Core.Astrax2Learning",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import Astrax2_LLM_Engine.Astrax2Engine",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import logger.Logger",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import astra_core.engine.astra_thought_engine.AstraThoughtEngine",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import astra_core.engine.astra_affect_core.EmotionalSignatureEngine",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import astra_core.engine.astra_auto_improve.AstraAutoImprove",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import astra_core.engine.astra_self_diagnostic.AstraSelfDiagnostic",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import astra_core.engine.astra_heartbeat.AstraHeartbeat",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import protection.astra_security_modules.activate_astra_security",
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "name": "Import opțional astra_voice.tts_engine.TTSEngine",
+      "status": "[PASS]",
+      "message": "Disponibil"
+    },
+    {
+      "name": "Import opțional astra_image.image_generator.ImageGenerator",
+      "status": "[PASS]",
+      "message": "Disponibil"
+    },
+    {
+      "name": "Import opțional astra_ml_engine.ml_predictor.MLPredictor",
+      "status": "[PASS]",
+      "message": "Disponibil"
+    },
+    {
+      "name": "Import opțional config_loader.ConfigLoader",
+      "status": "[PASS]",
+      "message": "Disponibil"
+    },
+    {
+      "name": "Import opțional user_interface.web_ui.Flask",
+      "status": "[WARN]",
+      "message": "Nu este instalat (opțional)"
+    },
+    {
+      "name": "LLM Mistral generate",
+      "status": "[PASS]",
+      "message": "Output: 183 caractere"
+    },
+    {
+      "name": "LLM Qwen generate",
+      "status": "[PASS]",
+      "message": "Output: 217 caractere"
+    },
+    {
+      "name": "LLM DeepSeek generate",
+      "status": "[PASS]",
+      "message": "Output: 264 caractere"
+    },
+    {
+      "name": "LLM WizardCoder generate",
+      "status": "[PASS]",
+      "message": "Output: 226 caractere"
+    },
+    {
+      "name": "LLM Codestral generate",
+      "status": "[PASS]",
+      "message": "Output: 271 caractere"
+    },
+    {
+      "name": "LLM MythoMax generate",
+      "status": "[PASS]",
+      "message": "Output: 183 caractere"
+    },
+    {
+      "name": "LLM Mixtral generate",
+      "status": "[PASS]",
+      "message": "Output: 197 caractere"
+    },
+    {
+      "name": "LLM GPT4All generate",
+      "status": "[PASS]",
+      "message": "Output: 159 caractere"
+    },
+    {
+      "name": "Routing 'Scrie cod Python...'",
+      "status": "[PASS]",
+      "message": "Intent: code, Model: wizardcoder"
+    },
+    {
+      "name": "Routing 'Simt emotie...'",
+      "status": "[PASS]",
+      "message": "Intent: emotion, Model: mythomax"
+    },
+    {
+      "name": "Routing 'Plan MVP...'",
+      "status": "[PASS]",
+      "message": "Intent: strategy, Model: mixtral"
+    },
+    {
+      "name": "Routing 'Fă video...'",
+      "status": "[PASS]",
+      "message": "Intent: video, Model: qwen"
+    },
+    {
+      "name": "Routing 'Scrie carte...'",
+      "status": "[PASS]",
+      "message": "Intent: book, Model: qwen"
+    },
+    {
+      "name": "Scoring logic",
+      "status": "[PASS]",
+      "message": "Logic=0.63, Emotion=0.00, Finance=0.00, Total=0.25"
+    },
+    {
+      "name": "Scoring emotion",
+      "status": "[PASS]",
+      "message": "Logic=0.54, Emotion=0.80, Finance=0.00, Total=0.46"
+    },
+    {
+      "name": "Scoring finance",
+      "status": "[PASS]",
+      "message": "Logic=0.52, Emotion=0.00, Finance=0.88, Total=0.47"
+    },
+    {
+      "name": "EFE process 'Salut, cum esti?...'",
+      "status": "[PASS]",
+      "message": "Output: 47 caractere"
+    },
+    {
+      "name": "EFE process 'Scrie-mi o functie Python...'",
+      "status": "[PASS]",
+      "message": "Output: 47 caractere"
+    },
+    {
+      "name": "EFE process 'Explica-mi cum functioneaza AS...'",
+      "status": "[PASS]",
+      "message": "Output: 47 caractere"
+    },
+    {
+      "name": "Learning save",
+      "status": "[PASS]",
+      "message": "Date salvate"
+    },
+    {
+      "name": "Learning analyze trends",
+      "status": "[PASS]",
+      "message": "Tendințe: [('mistral', 4), ('wizardcoder', 3), ('qwen', 2), ('deepseek', 1), ('codestral', 1)]"
+    },
+    {
+      "name": "Coherence compare",
+      "status": "[PASS]",
+      "message": "Best output: 70 caractere"
+    },
+    {
+      "name": "Coherence validate",
+      "status": "[PASS]",
+      "message": "Scor total: 0.47"
+    },
+    {
+      "name": "Evaluate responses",
+      "status": "[PASS]",
+      "message": "Best model: model2"
+    },
+    {
+      "name": "Meta Reflector analyze",
+      "status": "[PASS]",
+      "message": "Analizat 3 modele"
+    },
+    {
+      "name": "Affect analyze",
+      "status": "[PASS]",
+      "message": "Densitate emoțională: 0.27"
+    },
+    {
+      "name": "Affect Bloom Mode",
+      "status": "[PASS]",
+      "message": "Bloom Mode inactiv (normal)"
+    },
+    {
+      "name": "Thought process",
+      "status": "[PASS]",
+      "message": "Analizat: 8 cuvinte"
+    },
+    {
+      "name": "Security toxic check",
+      "status": "[PASS]",
+      "message": "Detectat toxic: True"
+    },
+    {
+      "name": "Security handler safe",
+      "status": "[PASS]",
+      "message": "Prompt sigur procesat"
+    },
+    {
+      "name": "Security handler toxic",
+      "status": "[PASS]",
+      "message": "Prompt toxic blocat"
+    },
+    {
+      "name": "Security identity",
+      "status": "[PASS]",
+      "message": "Identitate validă: True"
+    },
+    {
+      "name": "Config load settings",
+      "status": "[PASS]",
+      "message": "Settings încărcate: 6 chei"
+    },
+    {
+      "name": "Config get value",
+      "status": "[PASS]",
+      "message": "Threshold: 0.75"
+    },
+    {
+      "name": "File astra_entrypoint.py",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "File core_router/routing_manager.py",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "File scoring_module.py",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "File nexus_efe_core_engine.py",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "File logger.py",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "File Astrax2_Learning_Core.py",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "File Astrax2_LLM_Engine.py",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "File astra_soul/astra_soul_ported_FINAL.json",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "File storage/configs/settings.json",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "Directory core_router",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "Directory llm_modules",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "Directory meta_layer",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "Directory astra_core/engine",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "Directory protection",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "Directory storage/configs",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "Directory storage/logs",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "Directory astra_soul",
+      "status": "[PASS]",
+      "message": "Prezent"
+    },
+    {
+      "name": "Integration pipeline",
+      "status": "[PASS]",
+      "message": "Output generat: 47 caractere"
+    }
+  ],
+  "timestamp": "2026-01-21T12:34:02.420101",
+  "success_rate": 98.59154929577466
+}

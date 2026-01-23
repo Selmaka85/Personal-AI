@@ -1,0 +1,45 @@
+{
+  "mistral": {
+    "type": "llama-cpp",
+    "model_path": null,
+    "enabled": true,
+    "fallback_to_mock": true
+  },
+  "qwen": {
+    "type": "llama-cpp",
+    "model_path": null,
+    "enabled": true,
+    "fallback_to_mock": true
+  },
+  "deepseek": {
+    "type": "llama-cpp",
+    "model_path": null,
+    "enabled": true,
+    "fallback_to_mock": true
+  },
+  "wizardcoder": {
+    "type": "llama-cpp",
+    "model_path": null,
+    "enabled": true,
+    "fallback_to_mock": true
+  },
+  "codestral": {
+    "type": "llama-cpp",
+    "model_path": null,
+    "enabled": true,
+    "fallback_to_mock": true
+  },
+  "openai": {
+    "type": "openai-api",
+    "api_key": null,
+    "model": "gpt-3.5-turbo",
+    "enabled": false,
+    "fallback_to_mock": true
+  },
+  "ollama": {
+    "type": "ollama",
+    "base_url": "http://localhost:11434",
+    "enabled": false,
+    "fallback_to_mock": true
+  }
+}

@@ -1,0 +1,21 @@
+# ASTRA Local - Dependencies
+# Instalare: pip install -r requirements.txt
+
+# Core
+python>=3.8
+
+# Opțional - pentru funcționalități avansate
+# numpy>=1.21.0
+# scikit-learn>=1.0.0
+
+# Pentru conectare la modele LLM reale (alege în funcție de nevoi):
+# llama-cpp-python>=0.1.0  # Pentru modele GGUF
+# transformers>=4.20.0     # Pentru modele HuggingFace
+# torch>=2.0.0              # Pentru PyTorch models
+
+# Pentru TTS (opțional):
+# piper-tts                 # Pentru voce locală
+
+# Pentru UI Web (opțional):
+# flask>=2.0.0
+# streamlit>=1.0.0

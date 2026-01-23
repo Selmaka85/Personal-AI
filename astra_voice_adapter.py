@@ -1,0 +1,1 @@
+# Placeholder for astra_voice_adapter.py

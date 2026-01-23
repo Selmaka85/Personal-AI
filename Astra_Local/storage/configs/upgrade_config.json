@@ -1,0 +1,25 @@
+{
+  "llm": {
+    "type": "llama_cpp",
+    "model_path": "models/mistral-7b.gguf",
+    "enabled": true
+  },
+  "tts": {
+    "enabled": false,
+    "model_path": "astra_voice_models/cori-medium.onnx",
+    "piper_path": "piper"
+  },
+  "video": {
+    "enabled": false,
+    "ffmpeg_path": "ffmpeg",
+    "stable_diffusion": false
+  },
+  "web_ui": {
+    "enabled": true,
+    "port": 5000
+  },
+  "api": {
+    "enabled": true,
+    "port": 8000
+  }
+}

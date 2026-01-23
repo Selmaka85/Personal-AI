@@ -1,0 +1,87 @@
+[
+  {
+    "input": "Salut Astra! Cum esti?",
+    "context": {},
+    "analysis": {
+      "length": 22,
+      "word_count": 4,
+      "has_question": true,
+      "has_emotion": false,
+      "has_code": false
+    },
+    "emotional_weight": 0.0,
+    "logical_structure": {
+      "has_structure": true,
+      "sentence_count": 2,
+      "complexity": "simple"
+    }
+  },
+  {
+    "input": "Scrie-mi o functie Python care calculeaza factorialul unui numar",
+    "context": {},
+    "analysis": {
+      "length": 64,
+      "word_count": 9,
+      "has_question": false,
+      "has_emotion": false,
+      "has_code": false
+    },
+    "emotional_weight": 0.0,
+    "logical_structure": {
+      "has_structure": false,
+      "sentence_count": 0,
+      "complexity": "simple"
+    }
+  },
+  {
+    "input": "Simt nevoia sa vorbim despre viitor",
+    "context": {},
+    "analysis": {
+      "length": 35,
+      "word_count": 6,
+      "has_question": false,
+      "has_emotion": true,
+      "has_code": false
+    },
+    "emotional_weight": 0.3333333333333333,
+    "logical_structure": {
+      "has_structure": false,
+      "sentence_count": 0,
+      "complexity": "simple"
+    }
+  },
+  {
+    "input": "Fă-mi un plan pentru un MVP de aplicatie de task management",
+    "context": {},
+    "analysis": {
+      "length": 59,
+      "word_count": 11,
+      "has_question": false,
+      "has_emotion": false,
+      "has_code": false
+    },
+    "emotional_weight": 0.0,
+    "logical_structure": {
+      "has_structure": false,
+      "sentence_count": 0,
+      "complexity": "simple"
+    }
+  },
+  {
+    "input": "Explica-mi cum functioneaza sistemul tau de routing",
+    "context": {},
+    "analysis": {
+      "length": 51,
+      "word_count": 7,
+      "has_question": false,
+      "has_emotion": false,
+      "has_code": false
+    },
+    "emotional_weight": 0.0,
+    "logical_structure": {
+      "has_structure": false,
+      "sentence_count": 0,
+      "complexity": "simple"
+    }
+  }
+]

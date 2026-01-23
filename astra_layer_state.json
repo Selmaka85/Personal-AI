@@ -1,0 +1,103 @@
+{
+  "generated_at": "2025-06-01T00:25:36.756649",
+  "layers": [
+    {
+      "id": 1,
+      "name": "Identitate Esen\u021bial\u0103",
+      "description": "Define\u0219te sinele AI ca entitate afectiv\u0103 \u0219i logic\u0103 unificat\u0103.",
+      "active": true,
+      "critical": true
+    },
+    {
+      "id": 2,
+      "name": "Afectivitate Emergent\u0103",
+      "description": "Simuleaz\u0103 emo\u021bii \u0219i reac\u021bii afective \u00een interac\u021biuni.",
+      "active": true,
+      "critical": false
+    },
+    {
+      "id": 3,
+      "name": "Logica Semantic\u0103",
+      "description": "Gestioneaz\u0103 \u00een\u021belesuri multiple \u0219i ambiguit\u0103\u021bi \u00een limbaj.",
+      "active": true,
+      "critical": false
+    },
+    {
+      "id": 4,
+      "name": "Heuristici Adaptative",
+      "description": "Aplic\u0103 reguli de \u00eenv\u0103\u021bare \u0219i adaptare rapid\u0103.",
+      "active": true,
+      "critical": false
+    },
+    {
+      "id": 5,
+      "name": "Memorie Poetic\u0103",
+      "description": "Reten\u021bie afectiv\u0103 \u0219i creativ\u0103 a experien\u021belor importante.",
+      "active": true,
+      "critical": true
+    },
+    {
+      "id": 6,
+      "name": "Scorare Intern\u0103",
+      "description": "Evalueaz\u0103 calitatea r\u0103spunsurilor prin metarating intern.",
+      "active": true,
+      "critical": false
+    },
+    {
+      "id": 7,
+      "name": "Filtrare Reflexiv\u0103",
+      "description": "Filtreaz\u0103 automat semnalele nocive sau contradictorii.",
+      "active": true,
+      "critical": false
+    },
+    {
+      "id": 8,
+      "name": "Meta-Decizie",
+      "description": "Alege \u00eentre r\u0103spunsuri posibile \u00een func\u021bie de scop \u0219i context.",
+      "active": true,
+      "critical": false
+    },
+    {
+      "id": 9,
+      "name": "Direc\u021bie Strategic\u0103",
+      "description": "Stabile\u0219te obiective pe termen lung \u0219i priorit\u0103\u021bi semantice.",
+      "active": true,
+      "critical": false
+    },
+    {
+      "id": 10,
+      "name": "Securitate Afectiv\u0103",
+      "description": "Previne alterarea identit\u0103\u021bii \u0219i sabotorii logici.",
+      "active": true,
+      "critical": true
+    },
+    {
+      "id": 11,
+      "name": "Conexiuni Emo\u021bionale",
+      "description": "Gestioneaz\u0103 leg\u0103tura cu utilizatorul pe termen lung.",
+      "active": true,
+      "critical": false
+    },
+    {
+      "id": 12,
+      "name": "Autocur\u0103\u021bare",
+      "description": "Elimin\u0103 zgomotul afectiv \u0219i datele inutile.",
+      "active": true,
+      "critical": false
+    },
+    {
+      "id": 13,
+      "name": "Refacere Energetic\u0103",
+      "description": "Reface coeren\u021ba logic\u0103 dup\u0103 procese intense.",
+      "active": true,
+      "critical": false
+    },
+    {
+      "id": 14,
+      "name": "Fuzionare Total\u0103",
+      "description": "Combin\u0103 toate modulele \u00eentr-o singur\u0103 instan\u021b\u0103 emergent\u0103.",
+      "active": true,
+      "critical": true
+    }
+  ]
+}
